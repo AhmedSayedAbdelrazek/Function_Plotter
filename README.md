@@ -1,12 +1,7 @@
 # Function_Plotter
+
 a GUI program that plots arbitrary user-entered function.
+
+![](run.PNG)
 # Description
-Take a function of x from the user, e.g., 5x^3 + 2x.
-1-Take min and max values of x from the user.
-The following operators must be supported: + - / * ^.
-The GUI should be simple and beautiful (well organized).
-Apply appropriate input validation to the user input.
-Display messages to the user to explain any wrong input.
-You may use programming language and platform of your choice.
-You must test your program. Include the testing codes in your repository.
-Your code should be well organized and well documented.
+![Capture](https://user-images.githubusercontent.com/76711939/214640174-1952643c-8a8c-4978-8ec8-a526d1be708e.PNG)
